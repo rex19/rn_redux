@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rex.ni/WS/ReactNative/rn_redux/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/rex.ni/WS/ReactNative/rn_redux/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rex.ni/WS/ReactNative/rn01/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/rex.ni/WS/ReactNative/rn01/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/rex.ni/Workshop/rn01/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/rex.ni/Workshop/rn01/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
